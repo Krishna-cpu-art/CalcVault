@@ -1,3 +1,4 @@
+# CalcVault is a calculator basic cli tool
 class Calc:
     def __init__(self):
         self._total = 0
